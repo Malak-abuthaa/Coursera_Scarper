@@ -13,4 +13,4 @@ to run tests ```pytest src```
 
 
 ### Argo WorkFlows:
-at `coursera_courses_pipeline.yaml` 
+at `Workflow_pipeline.yaml` 
